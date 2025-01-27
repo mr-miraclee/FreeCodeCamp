@@ -1,0 +1,38 @@
+** start of undefined **
+
+<DOCTYPE! html > 
+<html lang="en"> 
+  <head>
+    <title></title> 
+    <meta charet="utf-8">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <h1 id="title">Registration </h1>
+    <p id="description">Welcome to web page</p>
+    <form id="survey-form">
+      <label id="name-label">Your name <input id="name" name="first-input" type="text" placeholder="Name" required> </label> <br>
+      <label id="email-label">Your email <input id="email" name="second-input" type="email" placeholder="Email" required>  </label><br>
+     <label id="number-label">Your age <input id="number" name="third-input" type="number" min="16" max="35" placeholder="Age" required></label> <br> 
+     <select id="dropdown"><br>
+       <option>Drop one</option> <br>
+       <option>Drop two</option> <br>
+     </select > <br>
+     <input type="radio" value="rad" name="radio-button">
+     <input type="radio" value="rad" name="radio-button"><br>
+     <input id="survey-form" type="checkbox" value="check">
+     <input id="survey-form" type="checkbox" value="check"><br>
+     <textarea></textarea><br>
+     <input id="submit" type="submit">
+    </form> 
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+
